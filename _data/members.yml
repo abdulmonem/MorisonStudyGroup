@@ -1,6 +1,11 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Abdulmonem Alsaleh
+  affiliation: PhD Student, Department of Pathology, University of Otago.
+  github: abdulmonem
   interests:
-    - Programming
-    - Open Science
+    - Epigenetics and Haematology
+
+- name: Professor Ian Morison
+  affiliation: Principal Investigator, Department of Pathology, University of Otago.
+  github: their GitHub handle
+  interests:
+    - Epigenetics and Haematology.
