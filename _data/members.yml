@@ -1,11 +1,11 @@
-- name: Abdulmonem Alsaleh
-  affiliation: PhD Student, Department of Pathology, University of Otago.
-  github: abdulmonem
-  interests:
-    - Epigenetics and Haematology
-
 - name: Professor Ian Morison
   affiliation: Principal Investigator, Department of Pathology, University of Otago.
   github: their GitHub handle
   interests:
     - Epigenetics and Haematology.
+
+- name: Abdulmonem Alsaleh
+  affiliation: PhD Student, Department of Pathology, University of Otago.
+  github: abdulmonem
+  interests:
+    - Epigenetics and Haematology
